@@ -1,0 +1,7 @@
+[book]
+title = "Agentic Coding Assistant Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/agentic-coding-assistant-security"
